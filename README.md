@@ -53,5 +53,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VrsRomet)](https://github.com/VrsRomet/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=VrsRomet)(https://github.com/VrsRomet/github-readme-stats)
 ###
